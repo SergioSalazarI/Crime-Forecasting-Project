@@ -2,4 +2,6 @@
 *.xls
 *.xlsm
 datos/unificado/hurto_a_personas.csv
-documentos/
+.pdf
+.txt
+.docx
