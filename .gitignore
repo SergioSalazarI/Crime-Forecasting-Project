@@ -6,3 +6,5 @@ datos/unificado/hurto_a_personas.csv
 *.txt
 *.docx
 *.csv
+codigo/Modelo/Model_.ipynb
+codigo\Modelo\Model_.ipynb
